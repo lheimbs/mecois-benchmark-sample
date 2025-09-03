@@ -87,3 +87,7 @@ def change_20250819075519_474():
 
 def change_20250819083619_7056():
     return 19
+
+
+def change_20250903020644_153():
+    return 60
